@@ -49,4 +49,15 @@ it will take a ton of time for the damage to be corrected.
 
 ### Question 10
 
-s
+I thought that this talk was very helpful in learning how to determine where to
+get accurate and truthful health data sets for free.  I have always thought that
+one of the hardest parts of any research project is finding data to go along
+with the topic that you are writing about.  It's different when you are able
+base your topic around the data that you find, but in an education setting it
+is almost always the other way around where you are given the topic/goal of the
+project first.  Something that really struck me about the talk was how
+prevalent the discussion of pregnancy is in the field.  At first thought, I was
+wondering if it was just them, but then I realized how important children are
+in research and in determining the overall health of the population.  After
+doing all this research on vaccines, I really saw the connection and the
+significance of what they were talking about.
